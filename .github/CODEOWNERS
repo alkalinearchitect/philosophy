@@ -1,0 +1,10 @@
+# Code Owners for Philosophy
+# Default owner for everything
+*                           @alkalinearchitect
+
+# Site source
+/index.html                 @alkalinearchitect
+/media/                     @alkalinearchitect
+
+# CI/CD
+/.github/                   @alkalinearchitect

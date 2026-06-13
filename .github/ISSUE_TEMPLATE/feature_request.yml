@@ -1,0 +1,19 @@
+name: Feature Request
+description: Suggest a new feature for Philosophy
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature Description
+      description: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this useful for the clipping agency?
+    validations:
+      required: true
